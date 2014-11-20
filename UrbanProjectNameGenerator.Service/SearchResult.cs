@@ -1,4 +1,4 @@
-﻿namespace UrbanProjectNameGenerator
+﻿namespace UrbanProjectNameGenerator.Service
 {
     public class SearchResult
     {
